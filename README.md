@@ -7,8 +7,7 @@
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <a href="https://t.me/hbhattad">Telegram</a> 
     <br>
 </p>
 
@@ -63,21 +62,4 @@ Userbottan dolayı; WhatsApp hesabınız yasaklanabilir.
 Bu bir açık kaynaklı projedir, yaptığınız her işlemden kendiniz sorumlusunuz. Kesinlikle Asena yöneticileri sorumluluk kabul etmemektedir.
 Asenayı kurarak bu sorumlulukları kabul etmiş sayılırsınız.
 ```
-## Geliştiriciler
 
-[![Yusuf Usta](https://github.com/quiec.png?size=100)](https://quiec.tech) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio)
----|---
-[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio)
-Taban, Geliştirme, Fikir, Modüller | Hata Düzeltmeleri, Modüller
-
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- Translators
-
-## Lisans
-Bu proje `GNU General Public Licence v3.0` lisansı ile korunmaktadır.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
