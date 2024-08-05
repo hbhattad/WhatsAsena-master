@@ -17,14 +17,13 @@
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Quiec/WhatsAsena/wiki)
 
 > [Video Guide](https://www.youtube.com/watch?v=029KmetlKPU)
 
 > [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Harsh Bhattad](https://github.com/hbhattad). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
